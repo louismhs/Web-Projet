@@ -1,0 +1,19 @@
+#navbar #site{
+    font-family: Cairo;
+    font-style: normal;
+
+    color: #18923A;
+}
+
+#navbar{
+    display: flex;
+}
+
+#navbar .liens{
+    color: #18923A;
+    font-family: 'Cairo', sans-serif;
+    text-decoration: none;
+    flex: 1;
+    font-size: 150%;
+    font-weight: lighter;
+}

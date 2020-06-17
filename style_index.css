@@ -3,10 +3,6 @@
     margin: 0%;
 }
 
-body{
-    overflow: hidden;
-}
-
 #page{
     padding: 0%;
     margin: 3%;
@@ -17,7 +13,7 @@ div{
     position: relative;
 }
 
-/*#navbar #site{
+#navbar #site{
     font-family: Cairo;
     font-style: normal;
 
@@ -35,7 +31,7 @@ div{
     flex: 1;
     font-size: 150%;
     font-weight: lighter;
-}*/
+}
 
 #content, #contentMembers{
     font-family: 'Cairo', sans-serif;
@@ -71,47 +67,4 @@ div{
     background-color:#17D993 ;
     margin-left: 220%;
     margin-top: 25%;
-}
-                                /*Members*/
-#head{
-    display: flex;
-    margin-top: 2%;
-    margin-left: 8%;
-}
-
-.img{
-    background-color: #17D993;
-    border-radius: 100%;
-    width: 50%;
-}
-
-.img img{
-    margin: 12%;
-    width: 50%;
-}
-
-.perso{
-    width: 50%;
-    flex: 1;
-    text-align: center;
-}
-
-.perso p{
-    margin-right: 50%;
-    margin-top: 5%;
-    font-size: x-large;
-}
-
-.nom{
-    font-weight: 600;
-}
-
-
-#contentMembers{
-    margin-top: 5%;
-}
-
-
-.Bmembers{
-    margin-top: -1%;
 }
