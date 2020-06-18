@@ -40,7 +40,7 @@ div{
 #content, #contentMembers{
     font-family: 'Cairo', sans-serif;
     text-align: center;
-    margin-top: 8%;
+    margin-top: 5%;
 }
 
 #content h1, #contentMembers h1{
@@ -51,11 +51,13 @@ div{
 
 #content #sentence{
     font-size: 1.5rem;
+    margin-top: 2%;
 }
 
 #image img{
     width: 7%;
     margin: 1%;
+    margin-top: 3%;
 }
 
 #bas{
@@ -70,9 +72,13 @@ div{
     border: 2px solid black;
     background-color:#17D993 ;
     margin-left: 220%;
-    margin-top: 25%;
+    margin-top: 20%;
 }
-                                /*Members*/
+              
+
+    /*Members*/
+
+
 #head{
     display: flex;
     margin-top: 2%;
