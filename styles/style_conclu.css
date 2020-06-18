@@ -34,8 +34,10 @@ div{
 #content p{
     margin-top: 3%;
 }
+
 #bas{
     width: 40%;
+    display: flex;
 }
 
 #bas img{
@@ -48,3 +50,14 @@ div{
     margin-left: 220%;
     margin-top: 25%;
 }
+
+#gauche{
+    margin-left: -215%;
+    margin-top: 40%;
+}
+#droite{
+    right: 0;
+    margin-left: 223%;
+    margin-top: 40%;
+}
+      

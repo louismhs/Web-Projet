@@ -3,6 +3,10 @@
     margin: 0%;
 }
 
+body{
+    overflow: hidden;
+}
+
 #page{
     padding: 0%;
     margin: 3%;
@@ -13,7 +17,7 @@ div{
     position: relative;
 }
 
-#navbar #site{
+/*#navbar #site{
     font-family: Cairo;
     font-style: normal;
 
@@ -31,12 +35,12 @@ div{
     flex: 1;
     font-size: 150%;
     font-weight: lighter;
-}
+}*/
 
 #content, #contentMembers{
     font-family: 'Cairo', sans-serif;
     text-align: center;
-    margin-top: 8%;
+    margin-top: 5%;
 }
 
 #content h1, #contentMembers h1{
@@ -47,24 +51,32 @@ div{
 
 #content #sentence{
     font-size: 1.5rem;
+    margin-top: 2%;
 }
 
 #image img{
     width: 7%;
     margin: 1%;
+    margin-top: 3%;
 }
 
 #bas{
     width: 40%;
+    display: flex;
 }
 
 #bas img{
-    position: absolute;
+    position: relative;
     width: 120px;
     height: 60px;
     box-shadow: -1px 2px 4px #000000;
     border: 2px solid black;
     background-color:#17D993 ;
-    margin-left: 220%;
-    margin-top: 25%;
+    margin-top: 20%;
+}
+
+#droite{
+    right: 0;
+    margin-left: 228%;
+    margin-top: 35%;
 }
