@@ -36,28 +36,26 @@ div{
 }
 
 #bas{
-    width: 40%;
+    width: 100%;
     display: flex;
+    margin-top: 11%;
 }
 
 #bas img{
-    position: absolute;
     width: 120px;
     height: 60px;
     box-shadow: -1px 2px 4px #000000;
     border: 2px solid black;
     background-color:#17D993 ;
-    margin-left: 220%;
-    margin-top: 25%;
 }
 
 #gauche{
-    margin-left: -215%;
-    margin-top: 40%;
+    margin-left: 3%;
+    margin-top: 10%;
 }
 #droite{
+    position: absolute;
     right: 0;
-    margin-left: 223%;
-    margin-top: 40%;
-}
-      
+    margin-right: 3%;
+    margin-top: 10%;
+}   

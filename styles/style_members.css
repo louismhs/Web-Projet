@@ -61,7 +61,7 @@ div{
 }
 
 #bas{
-    width: 40%;
+    width: 100%;
     display: flex;
 }
 
@@ -77,12 +77,13 @@ div{
 
 #gauche{
     margin-left: 3%;
-    margin-top: 35%;
+    margin-top: 10%;
 }
 #droite{
+    position: absolute;
     right: 0;
-    margin-left: 209%;
-    margin-top: 35%;
+    margin-right: 3%;
+    margin-top: 10%;
 }
               
 
