@@ -17,53 +17,29 @@ div{
     position: relative;
 }
 
-/*#navbar #site{
-    font-family: Cairo;
-    font-style: normal;
-
-    color: #18923A;
-}
-
-#navbar{
-    display: flex;
-}
-
-#navbar .liens{
-    color: #18923A;
-    font-family: 'Cairo', sans-serif;
-    text-decoration: none;
-    flex: 1;
-    font-size: 150%;
-    font-weight: lighter;
-}*/
-
-#content, #contentMembers{
+#content{
     font-family: 'Cairo', sans-serif;
     text-align: center;
     margin-top: 5%;
+    width: 70%;
+    margin-left: 15%;
 }
 
-#content h1, #contentMembers h1{
+#content h1{
     font-style: normal;
     font-weight: lighter;
     color: #479A59;
 }
 
-#content #sentence{
-    font-size: 1.5rem;
-    margin-top: 2%;
-}
-
-#image img{
-    width: 7%;
-    margin: 1%;
+#content p{
     margin-top: 3%;
+    font-size: 150%;
 }
 
 #bas{
     width: 100%;
     display: flex;
-    margin-top: 1%;
+    margin-top: 11%;
 }
 
 #bas img{
@@ -76,18 +52,12 @@ div{
 
 #gauche{
     margin-left: 3%;
-    margin-top: 10%;
+    margin-top: 12%;
 }
 #droite{
     position: absolute;
     right: 0;
     margin-right: 3%;
-    margin-top: 10%;
-}
+    margin-top: 12%;
+}   
 
-#hour{
-    position: absolute;
-    bottom: 0;
-    top: 100%;
-    left: 50%;
-}

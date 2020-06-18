@@ -35,6 +35,37 @@ div{
     margin-top: 3%;
 }
 
+#images{
+    width: 75%;
+    display: flex;
+    margin-top: 5%;
+}
+
+#langage_c{
+    position: relative;
+    width: 30%;
+}
+
+#langage_c img{
+    width: 100%;
+}
+
+#clion{
+    position: relative;
+    width: 30%;
+    margin-left: 3%;
+}
+
+#clion img{
+    width: 100%;
+}
+
+#list{
+    margin-left: 37%;
+    width: 100%;
+    text-align: left;
+}
+
 #bas{
     width: 100%;
     display: flex;
@@ -51,11 +82,11 @@ div{
 
 #gauche{
     margin-left: 3%;
-    margin-top: 10%;
+    margin-top: 0%;
 }
 #droite{
     position: absolute;
     right: 0;
     margin-right: 3%;
-    margin-top: 10%;
+    margin-top: 0%;
 }
