@@ -70,6 +70,14 @@ div{
     background-color:#17D993 ;
 }
 
+#bas #hour{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    font-family: 'Cairo', sans-serif;
+    box-shadow: -3px 3px #17d993;
+}
+
 #gauche{
     margin-left: 3%;
     margin-top: 4%;

@@ -90,3 +90,11 @@ div{
     margin-right: 3%;
     margin-top: 0%;
 }
+
+#bas #hour{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    font-family: 'Cairo', sans-serif;
+    box-shadow: -3px 3px #17d993;
+}

@@ -59,3 +59,11 @@ div{
     margin-right: 3%;
     margin-top: 10%;
 }
+
+#bas #hour{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    font-family: 'Cairo', sans-serif;
+    box-shadow: -3px 3px #17d993;
+}

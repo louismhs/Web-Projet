@@ -132,3 +132,11 @@ div{
 .Bmembers{
     margin-top: -1%;
 }
+
+#bas #hour{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    font-family: 'Cairo', sans-serif;
+    box-shadow: -3px 3px #17d993;
+}

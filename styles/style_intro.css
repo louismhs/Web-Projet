@@ -62,7 +62,9 @@ div{
 
 #bas #hour{
     position: absolute;
-    bottom: 0;
-    top: 100%;
+    top: 75%;
     left: 50%;
+    font-family: 'Cairo', sans-serif;
+    box-shadow: -3px 3px #17d993;
+    
 }
