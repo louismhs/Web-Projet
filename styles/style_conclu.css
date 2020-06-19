@@ -31,14 +31,14 @@ div{
     color: #479A59;
 }
 
-#content p{
-    margin-top: 3%;
+#content p img{
+    width: 40%;
 }
 
 #bas{
     width: 100%;
     display: flex;
-    margin-top: 11%;
+    margin-top: 4%;
 }
 
 #bas img{
